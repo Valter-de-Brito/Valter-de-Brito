@@ -1,3 +1,6 @@
+# Valter de Brito
+[![Linkedin Badge](https://img.shields.io/badge/-valterdebrito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valterdebrito/)](https://www.linkedin.com/in/valterdebrito/)
+
 ### Hi there 👋. Welcome to my profile
 My name is Valter, I'm a programmer and a constant learner.
 - 🌱 I finished in July the GoStack Bootcamp 11 from @Rocketseat using the most modern technologies of web and mobile development;
