@@ -5,7 +5,8 @@
 My name is Valter, I'm a programmer and a constant learner.
 - 🌱 I finished in July the GoStack Bootcamp 11 from @Rocketseat using the most modern technologies of web and mobile development;
 - 🔭 I'm currently working on my own projects;
-- 👯 I'm looking to collaborate on new projects, hopeful for new challenges.
+**- 👯 I'm looking to collaborate on new projects, hopeful for new challenges.
+- 👯 Venturing with new challenges and with a lot of responsibility.
 
 
 <!--
